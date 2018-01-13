@@ -19,7 +19,7 @@ Using a continuous data type as a fourth dimension can lead to the following cha
 
 Even if the relative positions of the circles are sometimes randomly defined (or classified depending on the circle size), note that bubble charts also "allow the comparison of entities in terms of their relative positions with respect to each numeric axis and their size as well" [6] as shown in the following figure.
 
-![alt text](https://github.com/ValentinCrr/TP1-Packed_Circle_chart_study/blob/master/BubbleChart2.png)
+![alt text](https://github.com/ValentinCrr/TP1-Packed_Circle_chart_study/blob/master/BubbleChart2.PNG)
 
 
 
@@ -39,15 +39,15 @@ The two first dimensions must be location coordinates (x,y) whereas the third di
 
 # Variations 
 
-- bubble maps : This variation of bubble trees takes latitudes and longitudes coordinates as (x,y) coordinates, and the bubbles are displayed on a world map (or any region), as shown below. They are often used to identify region with lower or larger values of any indicators, or to gather together a list of data items across a region [4].
+- Bubble maps : This variation of bubble trees takes latitudes and longitudes coordinates as (x,y) coordinates, and the bubbles are displayed on a world map (or any region), as shown below. They are often used to identify region with lower or larger values of any indicators, or to gather together a list of data items across a region [4].
 ![alt text](https://github.com/ValentinCrr/TP1-Packed_Circle_chart_study/blob/master/Europe-GDP-per-country-1.jpg)
 
 - Interactive bubble maps [5]:
-![alt text](https://github.com/ValentinCrr/TP1-Packed_Circle_chart_study/blob/master/Interactive_Bubble_chart)
+![alt text](https://github.com/ValentinCrr/TP1-Packed_Circle_chart_study/blob/master/Interactive_Bubble_chart.gif)
 
 
 
-#Sources :
+# Sources :
 - [1] The Data visualization catalogue (https://datavizcatalogue.com/methods/circle_packing.html)
 - [2] Tableau essentials - Chart types(https://www.interworks.com/fr/blog/ccapitula/2015/01/06/tableau-essentials-chart-types-packed-bubbles)
 - [3] Wikipedia - bubble chart (https://en.wikipedia.org/wiki/Bubble_chart)
