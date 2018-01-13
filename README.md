@@ -33,13 +33,14 @@ The two first dimensions must be location coordinates (x,y) whereas the third di
 - Packed Circles charts are often considered as a variation of scatter plots (with the circle size as an additional property), even if their philosophy is very different.
 - This type of charts is a way to display data with space optimization, using the packed-circles method (a variation of "Treemap" graphs)
 - Those charts cannot be used to display negative values, unless the color (or shape) of the circle is used to describe the symbol (plus/minus/zero).
-- Higher data dimension can be displayed by including circles into other circles (an example is shown in the next section, with Interactive bubble maps)
+- Higher data dimension can be displayed by including circles into other circles (an example is shown in the next section, with Interactive bubble maps) or text labels.
 
 
 
 # Variations 
 
 - Bubble maps : This variation of bubble trees takes latitudes and longitudes coordinates as (x,y) coordinates, and the bubbles are displayed on a world map (or any region), as shown below. They are often used to identify region with lower or larger values of any indicators, or to gather together a list of data items across a region [4].
+
 ![alt text](https://github.com/ValentinCrr/TP1-Packed_Circle_chart_study/blob/master/Europe-GDP-per-country-1.jpg)
 
 - Interactive bubble maps [5]:
