@@ -84,6 +84,10 @@ __Interactive bubble chart__
 ![alt text](https://github.com/ValentinCrr/TP1-Packed_Circle_chart_study/blob/master/img/Exotic1.gif)
 ![alt text](https://github.com/ValentinCrr/TP1-Packed_Circle_chart_study/blob/master/img/grape_packed_circle.jpg)
 
+## 7. Tools
+
+Most of the packed bubble charts are created using Tableau (see Tableau Essentials website for details). Only bubble charts can be created with most of the commonly used softwares (including Microsoft Excel).
+
 ## Sources :
 - [1] DataVizProject
 - [2] Tableau essentials - Chart types(https://www.interworks.com/fr/blog/ccapitula/2015/01/06/tableau-essentials-chart-types-packed-bubbles)
